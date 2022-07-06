@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/99651987/177512411-5f749f80-f579-4474-a735-8703da4524b3.png)
+
+
 Proyecto: Sistema de carga inalámbrica
 
 Autor: Raúl Henares Vargas
